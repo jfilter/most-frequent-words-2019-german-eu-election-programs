@@ -1,7 +1,5 @@
 # Visualization of the most frequent words in the German 2019 EU election programs.
 
-Based on the cleaned data by Sebastian Schröder and Marco Holz: <https://github.com/basti-schr/eu-wahlprogramme>
-
 <div align="center">
   <img src="wahlprogramme.jpg" alt="Visualization of the most frequent terms in the German 2019 EU election programms.">
 </div>
@@ -19,6 +17,12 @@ Bei den Grünen werden oft "Beispiele" angebracht werden und "Menschenrechte" th
 Die CDU haben mit "Sicherheit" und "Arbeitsplatz" zwei Alleinstellungsmerkmale. "EU" oder "Recht" werden jedoch unterdurchschnittlich oft benutzt.
 
 Bei der FDP kommt "Demokrat" auf Platz 2. Jedoch nur, weil sie sich selbst als "freiheitliche Demokraten" bezeichnen. "Chance" und "Innovation" sind ihre Steckenpferde. Über "Lohn" hingegen, reden sie ungern – es kommt kein einziges Mal vor.
+
+## Acknowledgements
+
+Based on the cleaned data by Sebastian Schröder and Marco Holz: <https://github.com/basti-schr/eu-wahlprogramme>
+
+Thanks to Simon Jockers et al. for organizing the [Wahlsalon 2019](https://www.meetup.com/OK-Lab-Berlin/events/259818253/).
 
 ## License
 
