@@ -8,17 +8,17 @@ Based on the cleaned data by Sebastian Schröder and Marco Holz: <https://github
 
 ## Analysis (in German)
 
-Bei der AfD kommt als einzige Partei "Deutschland" noch vor "Europa". In ihrem Wahlprogramm gibt es wenig "Zukunft" sonder mehr Vergangenheit. Das sieht an Wörtern wie: "Kind, "Familie" und "Nationalstaat". Sie bedienen mit "Euro" und "EZB" aber auch klassiche eurokritsche Haltungen.
+Bei der AfD kommt als einzige Partei "Deutschland" noch vor "Europa". In ihrem Wahlprogramm gibt es wenig "Zukunft" dafür aber mehr Vergangenheit. Das zeigen Wörter wie: "Kind, "Familie" und "Nationalstaat". Sie bedienen mit "Euro" und "EZB" aber auch klassische eurokritische Haltungen.
 
-Mit "Frau" auf Platz 4 sticht die SPD besonders hervor. Geraden gegenüber den drei rechten Parteien, die sich nur selten weiblicher Themen anzunehmen scheinen. Aufällig ist, dass die SPD bei "Sicherheit" und "Euro" an letzter Stelle steht.
+Mit "Frau" auf Platz 4 sticht die SPD besonders hervor. Gerade gegenüber den drei rechten Parteien. Auffällig ist, dass die SPD bei "Sicherheit" und "Euro" an letzter Stelle steht.
 
-Die Linke hat mit "Lohn", "Beschäftigte", "Konzern" und "Armut" ein eigenes Vokabular. Jedoch fehlt es ihnen an "Zusammenarbeit" und "Freiheit". "Bürgerin" kommt bei ihnen nicht vor, weil sie das Wahlprogramm kosequent gendern.
+Die Linke hat mit "Lohn", "Beschäftigte", "Konzern" und "Armut" ein eigenes Vokabular. Jedoch fehlt es ihnen an "Zusammenarbeit" und "Freiheit". "Bürgerin" kommt bei ihnen nicht vor, weil sie das Wahlprogramm konsequent gendern.
 
-Bei den Grünen werden oft "Beispiele" angebracht werden und "Menschenrechte" thematisiert. Asonsten ist das Programm recht durchschnittlich.
+Bei den Grünen werden oft "Beispiele" angebracht werden und "Menschenrechte" thematisiert. Von "Interessen" wird seltener gesprochen.
 
-Die CDU haben mit "Sicherheit" und "Arbeitsplatz" zwei Alleinstellungsmerkmale. "EU" oder "Recht" haben jedoch keinen hohen Stellenwert.
+Die CDU haben mit "Sicherheit" und "Arbeitsplatz" zwei Alleinstellungsmerkmale. "EU" oder "Recht" werden jedoch unterdurchschnittlich oft benutzt.
 
-Bei der FDP kommt "Demokrat" auf Platz 2. Jedoch nur, weil sie sich selbst als "freiheitliche Demokraten" bezeichnen. "Chance" und "Innovation" sind ihre Steckenpferde. Von "Lohn" hingegen, sprechen sie ungern – es kommt nicht einmal vor.
+Bei der FDP kommt "Demokrat" auf Platz 2. Jedoch nur, weil sie sich selbst als "freiheitliche Demokraten" bezeichnen. "Chance" und "Innovation" sind ihre Steckenpferde. Über "Lohn" hingegen, reden sie ungern – es kommt kein einziges Mal vor.
 
 ## License
 
