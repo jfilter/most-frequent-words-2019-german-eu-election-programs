@@ -6,7 +6,7 @@
 
 ## Analysis (in German)
 
-Bei der AfD kommt als einzige Partei "Deutschland" noch vor "Europa". In ihrem Wahlprogramm gibt es wenig "Zukunft" dafür aber mehr Vergangenheit. Das zeigen Wörter wie: "Kind, "Familie" und "Nationalstaat". Sie bedienen mit "Euro" und "EZB" aber auch klassische eurokritische Haltungen.
+Nur bei der AfD kommt "Deutschland" noch vor "Europa". In ihrem Wahlprogramm gibt es wenig "Zukunft" dafür aber mehr Vergangenheit. Das zeigen Wörter wie: "Kind, "Familie" und "Nationalstaat". Sie bedienen mit "Euro" und "EZB" aber auch klassische eurokritische Haltungen.
 
 Mit "Frau" auf Platz 4 sticht die SPD besonders hervor. Gerade gegenüber den drei rechten Parteien. Auffällig ist, dass die SPD bei "Sicherheit" und "Euro" an letzter Stelle steht.
 
